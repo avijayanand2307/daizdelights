@@ -1,0 +1,160 @@
+{
+  "site": {
+    "name": "DaiZ Delights",
+    "tagline": "Premium Brownies & Blondies",
+    "description": "Handcrafted brownies and blondies made with love and premium ingredients",
+    "version": "1.0.0",
+    "year": 2026
+  },
+  "business": {
+    "name": "DaiZ Delights",
+    "email": "order@daizdelights.com",
+    "phone": "+90 7708090202",
+    "address": "Mappedu, Selaiyur, Chennai 600126",
+    "hours": {
+      "weekday": "9:00 AM - 9:00 PM",
+      "weekend": "5:00 PM - 9:00 PM"
+    }
+  },
+  "colors": {
+    "primary": "#8B4513",
+    "primary-light": "#D2691E",
+    "primary-dark": "#5C2E0A",
+    "accent": "#FF6B6B",
+    "accent-light": "#FFE66D",
+    "background": "#FAFAFA",
+    "surface": "#FFFFFF",
+    "text-primary": "#1A1A1A",
+    "text-secondary": "#666666"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic Brownie",
+      "category": "brownie",
+      "description": "Rich, fudgy chocolate brownie with a perfect blend of cocoa",
+      "price": 12.99,
+      "image": "images/classic-brownie.jpg",
+      "rating": 4.5,
+      "reviews": 234,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Walnut Crunch",
+      "category": "brownie",
+      "description": "Decadent brownie loaded with roasted walnuts and chocolate chips",
+      "price": 14.99,
+      "image": "images/walnut-brownie.jpg",
+      "rating": 5.0,
+      "reviews": 312,
+      "featured": true
+    },
+    {
+      "id": 3,
+      "name": "Classic Blondie",
+      "category": "blondie",
+      "description": "Buttery blonde brownie with brown sugar sweetness and vanilla",
+      "price": 11.99,
+      "image": "images/classic-blondie.jpg",
+      "rating": 4.5,
+      "reviews": 198,
+      "featured": false
+    },
+    {
+      "id": 4,
+      "name": "Caramel Delight",
+      "category": "blondie",
+      "description": "Premium blondie with salted caramel swirls and sea salt",
+      "price": 15.99,
+      "image": "images/caramel-blondie.jpg",
+      "rating": 5.0,
+      "reviews": 425,
+      "featured": true
+    },
+    {
+      "id": 5,
+      "name": "Double Fudge",
+      "category": "brownie",
+      "description": "Intense chocolate fudge brownie for chocolate lovers",
+      "price": 13.99,
+      "image": "images/fudge-brownie.jpg",
+      "rating": 5.0,
+      "reviews": 356,
+      "featured": true
+    },
+    {
+      "id": 6,
+      "name": "Macadamia Magic",
+      "category": "blondie",
+      "description": "Luxury blondie with macadamia nuts and white chocolate",
+      "price": 16.99,
+      "image": "images/macadamia-blondie.jpg",
+      "rating": 4.5,
+      "reviews": 287,
+      "featured": false
+    }
+  ],
+  "features": [
+    {
+      "title": "Made with Love",
+      "description": "Every batch is prepared with premium ingredients and care",
+      "icon": "fa-heart"
+    },
+    {
+      "title": "Fast Delivery",
+      "description": "Fresh deliveries to your doorstep within 24 hours",
+      "icon": "fa-truck"
+    },
+    {
+      "title": "Quality Assured",
+      "description": "100% satisfaction guaranteed with every order",
+      "icon": "fa-star"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah Johnson",
+      "role": "Verified Buyer",
+      "rating": 5,
+      "text": "The brownies are absolutely divine! Best purchase I've made in months."
+    },
+    {
+      "name": "Michael Chen",
+      "role": "Verified Buyer",
+      "rating": 5,
+      "text": "Fresh, delicious, and delivered faster than expected. Highly recommend!"
+    },
+    {
+      "name": "Emily Rodriguez",
+      "role": "Verified Buyer",
+      "rating": 5,
+      "text": "The caramel blondies are my new favorite! Can't stop ordering!"
+    }
+  ],
+  "statistics": [
+    {
+      "number": "5K+",
+      "label": "Happy Customers"
+    },
+    {
+      "number": "50K+",
+      "label": "Orders Delivered"
+    },
+    {
+      "number": "4.9★",
+      "label": "Average Rating"
+    }
+  ],
+  "social": {
+    "facebook": "#",
+    "instagram": "#",
+    "twitter": "#",
+    "pinterest": "#"
+  },
+  "seo": {
+    "title": "DaiZ Delights - Premium Brownies & Blondies",
+    "description": "Order delicious handcrafted brownies and blondies online. Made with premium ingredients.",
+    "keywords": "brownies, blondies, desserts, bakery, chocolate, online ordering"
+  }
+}
